@@ -94,21 +94,7 @@ Analytics platform processing **100K+ records** to extract actionable insights f
 | C++ Programming | Sololearn | Jul 2025 |
 | C Programming | Spoken Tutorial, IIT Bombay | Dec 2024 |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-rxa&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-rxa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mr-rxa&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
