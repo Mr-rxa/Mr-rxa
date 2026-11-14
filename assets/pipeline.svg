@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Pipeline: ingest, clean, model, serve, insight, with the tools used at each stage">
+<defs>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="250" rx="20" fill="#0a0f1f"/>
+<rect x="0.5" y="0.5" width="999" height="249" rx="20" fill="none" stroke="#1f2a48"/>
+<path id="p" d="M30,120 L970,120" stroke="url(#line)" stroke-width="2" stroke-dasharray="3 7" opacity="0.55"/>
+<g>
+  <rect x="30" y="78" width="150" height="84" rx="14" fill="#0e1630" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3;0.3" keyTimes="0;0.06;0.22;1" dur="6s" begin="0.13s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1.5;3;1.5;1.5" keyTimes="0;0.06;0.22;1" dur="6s" begin="0.13s" repeatCount="indefinite"/></rect>
+  <text x="105.0" y="64" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22d3ee" opacity="0.8">01</text>
+  <text x="105.0" y="127" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9" letter-spacing="1.5">INGEST</text>
+  <text x="105.0" y="190" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Gmail API · REST APIs</text>
+  <text x="105.0" y="208" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">CSV · Images</text>
+</g>
+<g>
+  <rect x="225" y="78" width="150" height="84" rx="14" fill="#0e1630" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3;0.3" keyTimes="0;0.06;0.22;1" dur="6s" begin="1.37s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1.5;3;1.5;1.5" keyTimes="0;0.06;0.22;1" dur="6s" begin="1.37s" repeatCount="indefinite"/></rect>
+  <text x="300.0" y="64" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#38bdf8" opacity="0.8">02</text>
+  <text x="300.0" y="127" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9" letter-spacing="1.5">CLEAN</text>
+  <text x="300.0" y="190" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Pandas · SQL</text>
+  <text x="300.0" y="208" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">OpenCV</text>
+</g>
+<g>
+  <rect x="420" y="78" width="150" height="84" rx="14" fill="#0e1630" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3;0.3" keyTimes="0;0.06;0.22;1" dur="6s" begin="2.62s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1.5;3;1.5;1.5" keyTimes="0;0.06;0.22;1" dur="6s" begin="2.62s" repeatCount="indefinite"/></rect>
+  <text x="495.0" y="64" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#a78bfa" opacity="0.8">03</text>
+  <text x="495.0" y="127" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9" letter-spacing="1.5">MODEL</text>
+  <text x="495.0" y="190" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">TensorFlow · scikit-learn</text>
+  <text x="495.0" y="208" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Prophet · Gemini API</text>
+</g>
+<g>
+  <rect x="615" y="78" width="150" height="84" rx="14" fill="#0e1630" stroke="#c084fc" stroke-opacity="0.35" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3;0.3" keyTimes="0;0.06;0.22;1" dur="6s" begin="3.86s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1.5;3;1.5;1.5" keyTimes="0;0.06;0.22;1" dur="6s" begin="3.86s" repeatCount="indefinite"/></rect>
+  <text x="690.0" y="64" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c084fc" opacity="0.8">04</text>
+  <text x="690.0" y="127" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9" letter-spacing="1.5">SERVE</text>
+  <text x="690.0" y="190" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Flask · Node.js</text>
+  <text x="690.0" y="208" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Docker · n8n</text>
+</g>
+<g>
+  <rect x="810" y="78" width="150" height="84" rx="14" fill="#0e1630" stroke="#f472b6" stroke-opacity="0.35" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3;0.3" keyTimes="0;0.06;0.22;1" dur="6s" begin="5.11s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1.5;3;1.5;1.5" keyTimes="0;0.06;0.22;1" dur="6s" begin="5.11s" repeatCount="indefinite"/></rect>
+  <text x="885.0" y="64" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f472b6" opacity="0.8">05</text>
+  <text x="885.0" y="127" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9" letter-spacing="1.5">INSIGHT</text>
+  <text x="885.0" y="190" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Dash · Matplotlib</text>
+  <text x="885.0" y="208" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#94a3b8">Seaborn · Excel</text>
+</g>
+<circle r="6" fill="#ffffff" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M30,120 L970,120"/></circle>
+<circle r="4" fill="#a78bfa" opacity="0.7" filter="url(#glow)"><animateMotion dur="6s" begin="-0.25s" repeatCount="indefinite" path="M30,120 L970,120"/></circle>
+<circle r="3" fill="#22d3ee" opacity="0.5" filter="url(#glow)"><animateMotion dur="6s" begin="-0.5s" repeatCount="indefinite" path="M30,120 L970,120"/></circle>
+<text x="30" y="30" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#64748b">pipeline.run(raw_data) -&gt; something a person can act on</text>
+</svg>
