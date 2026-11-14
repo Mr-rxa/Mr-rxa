@@ -4,60 +4,153 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-22d3ee?style=flat-square&logo=linkedin&logoColor=0a0f1f&labelColor=0a0f1f)](https://linkedin.com/in/rahul-sharma-825894237)
-[![Email](https://img.shields.io/badge/Email-say_hello-a78bfa?style=flat-square&logo=gmail&logoColor=0a0f1f&labelColor=0a0f1f)](mailto:sharmarahul5437@gmail.com)
-[![Status](https://img.shields.io/badge/Status-open_to_internships-f472b6?style=flat-square&labelColor=0a0f1f)](#-inference-endpoint)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a0f1f&labelColor=0a0f1f)](https://linkedin.com/in/rahul-sharma-825894237)
+[![Email](https://img.shields.io/badge/Email-say_hello-a78bfa?style=for-the-badge&logo=gmail&logoColor=0a0f1f&labelColor=0a0f1f)](mailto:sharmarahul5437@gmail.com)
+[![Status](https://img.shields.io/badge/Status-open_to_internships-f472b6?style=for-the-badge&labelColor=0a0f1f)](#)
+
+<br/>
+
+**I love turning complex problems into elegant, automated solutions.**
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 🧾 Model Card
+<img src="assets/sec-about.svg" width="100%" alt="01 About" />
+
+<br/>
+
+<img src="assets/terminal.svg" width="100%" alt="Terminal showing whoami, focus, projects and status" />
+
+<br/>
+
+### 🧾 Model card
 
 | | |
 | :-- | :-- |
 | **🧠 Base model** | B.Tech in Information Technology @ Panipat Institute of Engineering & Technology *(2024–2028)* |
-| **🎛️ Fine-tuned on** | Business Intelligence using AI Analytics internship @ Revolt Motors *(Jul–Aug 2026)* + independent projects |
+| **🎛️ Fine-tuned on** | Business Intelligence using AI Analytics internship @ Revolt Motors *(Jul–Aug 2026)* plus independent projects |
 | **🎯 Intended use** | Turning messy data into decisions: ML models, analytics dashboards and workflow automation |
-| **🧰 Core stack** | Python · SQL · C++ · TensorFlow · scikit-learn · Flask · n8n |
 | **📍 Deployed in** | Haryana, India |
 | **🟢 Status** | Open to AI/ML and Data Analytics internships |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+### 💬 Ask me about
 
-## ⚙️ Architecture
+- 🤖 Building **n8n + Gemini API** automation workflows
+- 🧪 Fine-tuning **MobileNetV2** for image classification with TensorFlow
+- 🌐 Shipping **Flask** backends, REST APIs and **Dash** dashboards
+- 📊 **BI dashboards and reports** in Excel, plus forecasting with Prophet
 
-Most of what I build follows one flow, from raw input to something a person can act on. Each stage below is a tool I've actually used.
+<br/>
+
+<img src="assets/sec-stack.svg" width="100%" alt="02 Tech stack" />
+
+<br/>
+
+<img src="assets/stack.svg" width="100%" alt="Tech stack: languages, AI/ML, backend and automation, analytics, tools" />
+
+<br/>
+
+<img src="assets/sec-pipeline.svg" width="100%" alt="03 Architecture" />
+
+<br/>
+
+Most of what I build follows one flow, from raw input to something a person can act on. Each stage lists tools I've actually used.
 
 <img src="assets/pipeline.svg" width="100%" alt="Pipeline: ingest, clean, model, serve, insight, with the tools used at each stage" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 📈 Evaluation
+<img src="assets/sec-projects.svg" width="100%" alt="04 Projects" />
+
+<br/>
 
 <img src="assets/impact.svg" width="100%" alt="1000+ emails a day, 99% API uptime, 85%+ breed accuracy, 100K+ records analysed" />
 
-### 🧪 Experiment log
+<br/>
 
-| # | Experiment | Stack | Outcome |
-| :-: | :-- | :-- | :-- |
-| 01 | [**Gmail AI Workflow**](https://github.com/Mr-rxa/gmail-ai-workflow) | n8n · Gemini API · Gmail API · Node.js | Classifies, summarizes and labels **1000+ emails a day**; about **70%** less manual sorting |
-| 02 | [**Lifeline AI**](https://github.com/Mr-rxa/Lifeline-AI) | Python · Flask · Dash · REST | AI health-guidance platform with a live dashboard; **99% uptime**, **sub-200 ms** responses |
-| 03 | [**Cattle Breed Recognition**](https://github.com/Mr-rxa/cattle-breed-recognition) | TensorFlow · MobileNetV2 · OpenCV | **85%+ accuracy** on **5000+** augmented images; **40%** faster inference |
-| 04 | [**UIDAI Data Analytics**](https://github.com/Mr-rxa/UIDAI) | Python · Pandas · Matplotlib · Seaborn | Insights from **100K+ records**, visualised for non-technical readers |
-| 05 | [**AI Retail War Room**](https://github.com/Mr-rxa/AI-Retail-War-Room) | Flask · Prophet · scikit-learn · Gemini | Retail forecasting and a What-If simulator, from my Revolt Motors internship |
+### 📧 [Gmail AI Workflow](https://github.com/Mr-rxa/gmail-ai-workflow)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+> *n8n · Gemini API · Gmail API · Node.js*
 
-## 🔬 Currently training
+- **What it does:** an email automation agent that classifies, summarizes and labels incoming Gmail using AI-driven workflows
+- **Highlights:** handles **1000+ emails a day** and cuts manual sorting time by about **70%** through automated categorization and routing
 
-- 🏛️ **AI Procurement Intelligence Platform:** a transparency system for public tenders with risk indicators, contractor integrity scoring and explainable outputs. It deliberately surfaces *statistical signals* instead of accusations. *(design and documentation phase)*
-- 📈 **Yes Bank stock closing-price prediction:** a regression capstone
+### 🏥 [Lifeline AI](https://github.com/Mr-rxa/Lifeline-AI)
 
-## 🏅 Training data
+> *Python · Flask · Dash · REST APIs*
 
-<details>
-<summary><b>Certifications</b> (click to expand)</summary>
+- **What it does:** a full-stack health-guidance platform with an AI-powered backend, a Dash dashboard for real-time analytics and a RESTful API
+- **Highlights:** **99% uptime** and **sub-200 ms** response times
+
+### 🐄 [Cattle Breed Recognition](https://github.com/Mr-rxa/cattle-breed-recognition)
+
+> *TensorFlow · MobileNetV2 · Python · OpenCV*
+
+- **What it does:** an image classifier that identifies cattle breeds, fine-tuned from MobileNetV2
+- **Highlights:** **85%+ accuracy**, **5000+** training images preprocessed and augmented, and an inference pipeline optimized to cut prediction latency by **40%**
+
+### 📊 [UIDAI Data Analytics](https://github.com/Mr-rxa/UIDAI)
+
+> *Python · Pandas · Matplotlib · Seaborn · ML*
+
+- **What it does:** an analytics solution that extracts insights for digital-identity optimization
+- **Highlights:** processes **100K+ records** and presents the patterns through interactive visualizations that non-technical stakeholders can read
+
+### 🏍️ [AI Retail War Room](https://github.com/Mr-rxa/AI-Retail-War-Room)
+
+> *Flask · Prophet · scikit-learn · Gemini*
+
+- **What it does:** a retail analytics and forecasting web platform with a What-If simulator, built during my Revolt Motors internship with AI-assisted tools
+- **My role:** requirements, testing, BI interpretation, and fixing latency in the What-If simulator
+
+<br/>
+
+<img src="assets/sec-experience.svg" width="100%" alt="05 Experience" />
+
+<br/>
+
+### 🏢 Business Intelligence using AI Analytics Intern, Revolt Motors
+
+*1 Jul – 9 Aug 2026 · six weeks*
+
+- 📉 **Open Complaint Dashboard:** built in Excel with pivot tables and slicers
+- 🗂️ **EOD Report:** consolidated booking, retail and stock data into one daily report, the largest share of my work
+- 🏍️ **AI Retail War Room:** a forecasting platform, described above
+
+<br/>
+
+<img src="assets/sec-building.svg" width="100%" alt="06 Currently building" />
+
+<br/>
+
+### 🏛️ AI Procurement Intelligence Platform
+
+A public-procurement transparency system for governments, auditors, vigilance departments, journalists and citizens.
+
+- **Capabilities:** procurement risk assessment, contractor integrity scoring, cost estimation, budget flow tracking, tender intelligence and explainable AI outputs
+- **Design principle:** surface *statistical risk indicators* instead of making direct accusations
+- **Process:** following a structured enterprise documentation workflow, with these documents done so far:
+
+```text
+BRD → MRD → PRD → TRD → SRS → HLD → LLD ✓
+```
+
+### 📈 Yes Bank stock closing-price prediction
+
+A regression capstone project on Yes Bank stock data.
+
+<br/>
+
+<img src="assets/sec-timeline.svg" width="100%" alt="07 Timeline" />
+
+<br/>
+
+<img src="assets/timeline.svg" width="100%" alt="Timeline from 2024 to now: CTF, certifications, Revolt Motors internship, current project" />
+
+<br/>
+
+<img src="assets/sec-certs.svg" width="100%" alt="08 Certifications" />
 
 <br/>
 
@@ -71,20 +164,20 @@ Most of what I build follows one flow, from raw input to something a person can 
 | C Programming | Spoken Tutorial, IIT Bombay | Dec 2024 |
 | H4CKP13T 0X01 CTF (Cybersecurity Competition) | H4CKP13T-PIET | Aug 2024 |
 
-</details>
+<br/>
 
-## ⚠️ Limitations
+<img src="assets/sec-connect.svg" width="100%" alt="09 Connect" />
 
-Early-career, so I'm strongest where I can learn on real problems. I'm looking for an AI/ML or data analytics internship with real data and good mentors.
+<br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+I'm looking for **AI/ML and Data Analytics internships** where I can work on real data and learn from good mentors.
 
-## 📬 Inference endpoint
+| | |
+| :-- | :-- |
+| 💼 **LinkedIn** | [rahul-sharma-825894237](https://linkedin.com/in/rahul-sharma-825894237) |
+| ✉️ **Email** | [sharmarahul5437@gmail.com](mailto:sharmarahul5437@gmail.com) |
+| 🐙 **GitHub** | [@Mr-rxa](https://github.com/Mr-rxa) |
 
-Best reached on [LinkedIn](https://linkedin.com/in/rahul-sharma-825894237) or at [sharmarahul5437@gmail.com](mailto:sharmarahul5437@gmail.com).
+<br/>
 
-<div align="center">
-
-*"Building things that make life a little smarter, one commit at a time."*
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="Building things that make life a little smarter, one commit at a time." />
