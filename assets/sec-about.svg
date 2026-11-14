@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 76" width="1000" height="76" role="img" aria-label="ABOUT">
+<defs><linearGradient id="l" gradientUnits="userSpaceOnUse" x1="34" y1="0" x2="966" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient><filter id="glow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="76" rx="14" fill="#0a0f1f"/><rect x="0.5" y="0.5" width="999" height="75" rx="14" fill="none" stroke="#1f2a48"/>
+<rect x="0" y="18" width="5" height="40" rx="2.5" fill="#22d3ee"/>
+<text x="34" y="30" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22d3ee" opacity="0.9">01 /</text>
+<text x="34" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" fill="#f1f5f9" letter-spacing="2">ABOUT</text>
+<text x="966" y="44" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#64748b">whoami</text>
+<line x1="34" y1="69" x2="966" y2="69" stroke="url(#l)" stroke-width="1.5" opacity="0.6"/>
+<circle r="3" cy="69" fill="#fff" filter="url(#glow)"><animate attributeName="cx" values="34;966" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5s" repeatCount="indefinite"/></circle>
+</svg>

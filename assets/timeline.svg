@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Timeline from 2024 to now: CTF, certifications, Revolt Motors internship, current project">
+<defs><linearGradient id="tl" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="940" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><filter id="glow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="340" rx="18" fill="#0a0f1f"/><rect x="0.5" y="0.5" width="999" height="339" rx="18" fill="none" stroke="#1f2a48"/>
+<line x1="60" y1="170" x2="940" y2="170" stroke="url(#tl)" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="60.0" y1="170" x2="60.0" y2="150" stroke="#22d3ee" stroke-opacity="0.5"/>
+<circle cx="60.0" cy="170" r="11" fill="#22d3ee" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="60.0" cy="170" r="5.5" fill="#0a0f1f" stroke="#22d3ee" stroke-width="2.5"/>
+<text x="40.0" y="46" text-anchor="start" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22d3ee" font-weight="700">2024</text>
+<text x="40.0" y="64" text-anchor="start" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">B.Tech IT</text>
+<text x="40.0" y="82" text-anchor="start" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">begins at PIET</text>
+<line x1="157.8" y1="170" x2="157.8" y2="190" stroke="#22d3ee" stroke-opacity="0.5"/>
+<circle cx="157.8" cy="170" r="11" fill="#22d3ee" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="157.8" cy="170" r="5.5" fill="#0a0f1f" stroke="#22d3ee" stroke-width="2.5"/>
+<text x="157.8" y="246" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22d3ee" font-weight="700">Aug 2024</text>
+<text x="157.8" y="264" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">H4CKP13T 0X01</text>
+<text x="157.8" y="282" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">CTF</text>
+<line x1="255.6" y1="170" x2="255.6" y2="150" stroke="#38bdf8" stroke-opacity="0.5"/>
+<circle cx="255.6" cy="170" r="11" fill="#38bdf8" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="255.6" cy="170" r="5.5" fill="#0a0f1f" stroke="#38bdf8" stroke-width="2.5"/>
+<text x="255.6" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#38bdf8" font-weight="700">Dec 2024</text>
+<text x="255.6" y="64" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">C Programming</text>
+<text x="255.6" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">IIT Bombay</text>
+<line x1="353.3" y1="170" x2="353.3" y2="190" stroke="#818cf8" stroke-opacity="0.5"/>
+<circle cx="353.3" cy="170" r="11" fill="#818cf8" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="353.3" cy="170" r="5.5" fill="#0a0f1f" stroke="#818cf8" stroke-width="2.5"/>
+<text x="353.3" y="246" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#818cf8" font-weight="700">May 2025</text>
+<text x="353.3" y="264" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">Deloitte Data</text>
+<text x="353.3" y="282" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">Analytics sim</text>
+<line x1="451.1" y1="170" x2="451.1" y2="150" stroke="#a78bfa" stroke-opacity="0.5"/>
+<circle cx="451.1" cy="170" r="11" fill="#a78bfa" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="451.1" cy="170" r="5.5" fill="#0a0f1f" stroke="#a78bfa" stroke-width="2.5"/>
+<text x="451.1" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#a78bfa" font-weight="700">Jul 2025</text>
+<text x="451.1" y="64" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">C++ Programming</text>
+<text x="451.1" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">Sololearn</text>
+<line x1="548.9" y1="170" x2="548.9" y2="190" stroke="#a78bfa" stroke-opacity="0.5"/>
+<circle cx="548.9" cy="170" r="11" fill="#a78bfa" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="548.9" cy="170" r="5.5" fill="#0a0f1f" stroke="#a78bfa" stroke-width="2.5"/>
+<text x="548.9" y="246" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#a78bfa" font-weight="700">Sep 2025</text>
+<text x="548.9" y="264" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">Deloitte</text>
+<text x="548.9" y="282" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">Technology sim</text>
+<line x1="646.7" y1="170" x2="646.7" y2="150" stroke="#c084fc" stroke-opacity="0.5"/>
+<circle cx="646.7" cy="170" r="11" fill="#c084fc" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="5.4s" repeatCount="indefinite"/></circle>
+<circle cx="646.7" cy="170" r="5.5" fill="#0a0f1f" stroke="#c084fc" stroke-width="2.5"/>
+<text x="646.7" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c084fc" font-weight="700">Oct 2025</text>
+<text x="646.7" y="64" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">Tata Cybersecurity</text>
+<text x="646.7" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">Analyst sim</text>
+<line x1="744.4" y1="170" x2="744.4" y2="190" stroke="#e879f9" stroke-opacity="0.5"/>
+<circle cx="744.4" cy="170" r="11" fill="#e879f9" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="6.3s" repeatCount="indefinite"/></circle>
+<circle cx="744.4" cy="170" r="5.5" fill="#0a0f1f" stroke="#e879f9" stroke-width="2.5"/>
+<text x="744.4" y="246" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#e879f9" font-weight="700">Dec 2025</text>
+<text x="744.4" y="264" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">Git and GitHub</text>
+<text x="744.4" y="282" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">IIT Bombay</text>
+<line x1="842.2" y1="170" x2="842.2" y2="150" stroke="#f472b6" stroke-opacity="0.5"/>
+<circle cx="842.2" cy="170" r="11" fill="#f472b6" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="7.2s" repeatCount="indefinite"/></circle>
+<circle cx="842.2" cy="170" r="5.5" fill="#0a0f1f" stroke="#f472b6" stroke-width="2.5"/>
+<text x="842.2" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f472b6" font-weight="700">Jul-Aug 2026</text>
+<text x="842.2" y="64" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">Revolt Motors</text>
+<text x="842.2" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">BI internship</text>
+<line x1="940.0" y1="170" x2="940.0" y2="190" stroke="#fb7185" stroke-opacity="0.5"/>
+<circle cx="940.0" cy="170" r="11" fill="#fb7185" opacity="0.15"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="9s" begin="8.1s" repeatCount="indefinite"/></circle>
+<circle cx="940.0" cy="170" r="5.5" fill="#0a0f1f" stroke="#fb7185" stroke-width="2.5"/>
+<text x="960.0" y="246" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#fb7185" font-weight="700">Now</text>
+<text x="960.0" y="264" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#f1f5f9">AI Procurement</text>
+<text x="960.0" y="282" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#94a3b8">Intelligence Platform</text>
+<circle r="5" cy="170" fill="#fff" filter="url(#glow)"><animate attributeName="cx" values="60;940" dur="9s" repeatCount="indefinite"/></circle>
+</svg>
